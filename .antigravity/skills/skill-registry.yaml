@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: malawian-restitution-roadmap-and-qsf-trust-execution
-  name: Malawian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/malawian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_mw_001
+    name: Malawi Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_002
+    name: Malawi Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_003
+    name: Malawi Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_004
+    name: Malawi Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_005
+    name: Malawi Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_006
+    name: Malawi Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_007
+    name: Malawi Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_008
+    name: Malawi Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_009
+    name: Malawi Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_010
+    name: Malawi Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_011
+    name: Malawi Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_012
+    name: Malawi Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_013
+    name: Malawi Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_014
+    name: Malawi Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_015
+    name: Malawi Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_016
+    name: Malawi Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_017
+    name: Malawi Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_018
+    name: Malawi Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_019
+    name: Malawi Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_020
+    name: Malawi Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_021
+    name: Malawi Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_022
+    name: Malawi Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_023
+    name: Malawi Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_024
+    name: Malawi Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_025
+    name: Malawi Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_026
+    name: Malawi Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_027
+    name: Malawi Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_028
+    name: Malawi Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_029
+    name: Malawi Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_030
+    name: Malawi Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_031
+    name: Malawi Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_032
+    name: Malawi Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_033
+    name: Malawi Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_034
+    name: Malawi Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_035
+    name: Malawi Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_036
+    name: Malawi Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_037
+    name: Malawi Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_038
+    name: Malawi Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_039
+    name: Malawi Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_040
+    name: Malawi Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_041
+    name: Malawi Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_042
+    name: Malawi Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_043
+    name: Malawi Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_044
+    name: Malawi Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_045
+    name: Malawi Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_046
+    name: Malawi Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_047
+    name: Malawi Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_048
+    name: Malawi Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_049
+    name: Malawi Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_050
+    name: Malawi Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_051
+    name: Malawi Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_052
+    name: Malawi Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_053
+    name: Malawi Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_054
+    name: Malawi Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_055
+    name: Malawi Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_056
+    name: Malawi Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_057
+    name: Malawi Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_058
+    name: Malawi Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_059
+    name: Malawi Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_060
+    name: Malawi Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_061
+    name: Malawi Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_062
+    name: Malawi Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_063
+    name: Malawi Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_064
+    name: Malawi Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_065
+    name: Malawi Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_066
+    name: Malawi Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_067
+    name: Malawi Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_068
+    name: Malawi Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_069
+    name: Malawi Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_070
+    name: Malawi Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_071
+    name: Malawi Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_072
+    name: Malawi Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_073
+    name: Malawi Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_074
+    name: Malawi Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_075
+    name: Malawi Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_076
+    name: Malawi Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_077
+    name: Malawi Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_078
+    name: Malawi Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_079
+    name: Malawi Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_080
+    name: Malawi Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_081
+    name: Malawi Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_082
+    name: Malawi Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_083
+    name: Malawi Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_084
+    name: Malawi Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_085
+    name: Malawi Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_086
+    name: Malawi Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_087
+    name: Malawi Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_088
+    name: Malawi Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_089
+    name: Malawi Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_090
+    name: Malawi Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_091
+    name: Malawi Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_092
+    name: Malawi Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_093
+    name: Malawi Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_094
+    name: Malawi Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_095
+    name: Malawi Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_096
+    name: Malawi Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_097
+    name: Malawi Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_098
+    name: Malawi Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_099
+    name: Malawi Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_100
+    name: Malawi Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_101
+    name: Malawi Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_102
+    name: Malawi Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_103
+    name: Malawi Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_104
+    name: Malawi Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_105
+    name: Malawi Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_106
+    name: Malawi Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_107
+    name: Malawi Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_108
+    name: Malawi Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_109
+    name: Malawi Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_110
+    name: Malawi Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_111
+    name: Malawi Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_112
+    name: Malawi Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_113
+    name: Malawi Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_114
+    name: Malawi Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_115
+    name: Malawi Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_116
+    name: Malawi Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_117
+    name: Malawi Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_118
+    name: Malawi Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_119
+    name: Malawi Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_120
+    name: Malawi Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_121
+    name: Malawi Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_122
+    name: Malawi Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_123
+    name: Malawi Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_124
+    name: Malawi Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_125
+    name: Malawi Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_126
+    name: Malawi Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_127
+    name: Malawi Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_128
+    name: Malawi Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_129
+    name: Malawi Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_130
+    name: Malawi Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_131
+    name: Malawi Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_132
+    name: Malawi Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_133
+    name: Malawi Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_134
+    name: Malawi Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_135
+    name: Malawi Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_136
+    name: Malawi Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_137
+    name: Malawi Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_138
+    name: Malawi Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_139
+    name: Malawi Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_140
+    name: Malawi Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_141
+    name: Malawi Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_142
+    name: Malawi Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_143
+    name: Malawi Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_144
+    name: Malawi Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_145
+    name: Malawi Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_146
+    name: Malawi Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_147
+    name: Malawi Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_148
+    name: Malawi Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_149
+    name: Malawi Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_150
+    name: Malawi Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_151
+    name: Malawi Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_152
+    name: Malawi Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_153
+    name: Malawi Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_154
+    name: Malawi Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_155
+    name: Malawi Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_156
+    name: Malawi Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_157
+    name: Malawi Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_158
+    name: Malawi Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_159
+    name: Malawi Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_160
+    name: Malawi Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_161
+    name: Malawi Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_162
+    name: Malawi Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_163
+    name: Malawi Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_164
+    name: Malawi Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_165
+    name: Malawi Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_166
+    name: Malawi Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_167
+    name: Malawi Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_168
+    name: Malawi Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_169
+    name: Malawi Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_170
+    name: Malawi Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_171
+    name: Malawi Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_172
+    name: Malawi Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_173
+    name: Malawi Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_174
+    name: Malawi Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_175
+    name: Malawi Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_176
+    name: Malawi Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_177
+    name: Malawi Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_178
+    name: Malawi Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_179
+    name: Malawi Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_180
+    name: Malawi Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_181
+    name: Malawi Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_182
+    name: Malawi Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_183
+    name: Malawi Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_184
+    name: Malawi Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_185
+    name: Malawi Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_186
+    name: Malawi Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_187
+    name: Malawi Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_188
+    name: Malawi Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_189
+    name: Malawi Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_190
+    name: Malawi Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_191
+    name: Malawi Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_192
+    name: Malawi Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_193
+    name: Malawi Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_194
+    name: Malawi Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_195
+    name: Malawi Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_196
+    name: Malawi Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_197
+    name: Malawi Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_198
+    name: Malawi Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_199
+    name: Malawi Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_200
+    name: Malawi Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_201
+    name: Malawi Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_202
+    name: Malawi Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_203
+    name: Malawi Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_204
+    name: Malawi Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_205
+    name: Malawi Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_206
+    name: Malawi Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_207
+    name: Malawi Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_208
+    name: Malawi Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_209
+    name: Malawi Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_210
+    name: Malawi Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_211
+    name: Malawi Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_212
+    name: Malawi Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_213
+    name: Malawi Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_214
+    name: Malawi Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_215
+    name: Malawi Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_216
+    name: Malawi Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_217
+    name: Malawi Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_218
+    name: Malawi Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_219
+    name: Malawi Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_220
+    name: Malawi Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_221
+    name: Malawi Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_222
+    name: Malawi Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_223
+    name: Malawi Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_224
+    name: Malawi Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_225
+    name: Malawi Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_226
+    name: Malawi Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_227
+    name: Malawi Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_228
+    name: Malawi Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_229
+    name: Malawi Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_230
+    name: Malawi Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_231
+    name: Malawi Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_232
+    name: Malawi Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_233
+    name: Malawi Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_234
+    name: Malawi Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_235
+    name: Malawi Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_236
+    name: Malawi Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_237
+    name: Malawi Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_238
+    name: Malawi Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_239
+    name: Malawi Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_240
+    name: Malawi Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_241
+    name: Malawi Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_242
+    name: Malawi Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_243
+    name: Malawi Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_244
+    name: Malawi Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_245
+    name: Malawi Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_246
+    name: Malawi Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_247
+    name: Malawi Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_248
+    name: Malawi Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_249
+    name: Malawi Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_250
+    name: Malawi Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_251
+    name: Malawi Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mw_252
+    name: Malawi Skill 252
+    status: ACTIVE_SCAFFOLD
