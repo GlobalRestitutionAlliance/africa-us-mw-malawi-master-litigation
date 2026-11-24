@@ -27,5 +27,6 @@
     "cf-cache-status": "HIT",
     "Age": "5",
     "CF-RAY": "a5e2e7bcfec8f70c-MIA"
-  }
+  },
+  "legal_review_status": "PENDING_LEGAL_REVIEW"
 }
